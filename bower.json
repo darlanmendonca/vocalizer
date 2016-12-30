@@ -1,0 +1,14 @@
+{
+  "name": "vocalizer",
+  "version": "0.0.9",
+  "description": "A simple javascript plugin to show people how to say your name correctly.",
+  "main": [
+    "dist/vocalizer.min.css",
+    "dist/vocalizer.min.js"
+  ],
+  "authors": [
+    "Atif Azam (http://atifaz.am)"
+  ],
+  "license": "MIT",
+  "homepage": ""
+}
